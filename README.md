@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jonas, student in computational sciences at ETHZ. This account is intended to share with you the projects I've done so far!
+I am Jonas, student in Computational Science and Engineering at ETHZ. This account is intended to share with you the projects I've done so far!
 
 - 🔭 I’m currently working on Dense representation learning in Robotics.
 
