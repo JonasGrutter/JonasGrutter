@@ -2,8 +2,6 @@
 
 I am Jonas, student in Computational Science and Engineering at ETHZ. This account is intended to share with you the projects I've done so far!
 
-- 🔭 I’m currently working on Dense representation learning in Robotics.
-
 <!--
 **JonasGrutter/JonasGrutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
